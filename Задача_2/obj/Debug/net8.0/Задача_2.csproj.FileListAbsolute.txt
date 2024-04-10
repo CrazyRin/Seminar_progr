@@ -1,0 +1,14 @@
+D:\Geek\C#\seminar\Задача_2\bin\Debug\net8.0\Задача_2.exe
+D:\Geek\C#\seminar\Задача_2\bin\Debug\net8.0\Задача_2.deps.json
+D:\Geek\C#\seminar\Задача_2\bin\Debug\net8.0\Задача_2.runtimeconfig.json
+D:\Geek\C#\seminar\Задача_2\bin\Debug\net8.0\Задача_2.dll
+D:\Geek\C#\seminar\Задача_2\bin\Debug\net8.0\Задача_2.pdb
+D:\Geek\C#\seminar\Задача_2\obj\Debug\net8.0\Задача_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geek\C#\seminar\Задача_2\obj\Debug\net8.0\Задача_2.AssemblyInfoInputs.cache
+D:\Geek\C#\seminar\Задача_2\obj\Debug\net8.0\Задача_2.AssemblyInfo.cs
+D:\Geek\C#\seminar\Задача_2\obj\Debug\net8.0\Задача_2.csproj.CoreCompileInputs.cache
+D:\Geek\C#\seminar\Задача_2\obj\Debug\net8.0\Задача_2.dll
+D:\Geek\C#\seminar\Задача_2\obj\Debug\net8.0\refint\Задача_2.dll
+D:\Geek\C#\seminar\Задача_2\obj\Debug\net8.0\Задача_2.pdb
+D:\Geek\C#\seminar\Задача_2\obj\Debug\net8.0\Задача_2.genruntimeconfig.cache
+D:\Geek\C#\seminar\Задача_2\obj\Debug\net8.0\ref\Задача_2.dll
