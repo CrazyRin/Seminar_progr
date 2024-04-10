@@ -1,0 +1,14 @@
+D:\Geek\C#\seminar\пример_4\bin\Debug\net8.0\пример_4.exe
+D:\Geek\C#\seminar\пример_4\bin\Debug\net8.0\пример_4.deps.json
+D:\Geek\C#\seminar\пример_4\bin\Debug\net8.0\пример_4.runtimeconfig.json
+D:\Geek\C#\seminar\пример_4\bin\Debug\net8.0\пример_4.dll
+D:\Geek\C#\seminar\пример_4\bin\Debug\net8.0\пример_4.pdb
+D:\Geek\C#\seminar\пример_4\obj\Debug\net8.0\пример_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geek\C#\seminar\пример_4\obj\Debug\net8.0\пример_4.AssemblyInfoInputs.cache
+D:\Geek\C#\seminar\пример_4\obj\Debug\net8.0\пример_4.AssemblyInfo.cs
+D:\Geek\C#\seminar\пример_4\obj\Debug\net8.0\пример_4.csproj.CoreCompileInputs.cache
+D:\Geek\C#\seminar\пример_4\obj\Debug\net8.0\пример_4.dll
+D:\Geek\C#\seminar\пример_4\obj\Debug\net8.0\refint\пример_4.dll
+D:\Geek\C#\seminar\пример_4\obj\Debug\net8.0\пример_4.pdb
+D:\Geek\C#\seminar\пример_4\obj\Debug\net8.0\пример_4.genruntimeconfig.cache
+D:\Geek\C#\seminar\пример_4\obj\Debug\net8.0\ref\пример_4.dll
