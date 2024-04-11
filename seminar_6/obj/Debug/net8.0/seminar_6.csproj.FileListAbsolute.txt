@@ -1,0 +1,14 @@
+D:\Geek\C#\seminar\seminar_6\obj\Debug\net8.0\seminar_6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geek\C#\seminar\seminar_6\obj\Debug\net8.0\seminar_6.AssemblyInfoInputs.cache
+D:\Geek\C#\seminar\seminar_6\obj\Debug\net8.0\seminar_6.AssemblyInfo.cs
+D:\Geek\C#\seminar\seminar_6\obj\Debug\net8.0\seminar_6.csproj.CoreCompileInputs.cache
+D:\Geek\C#\seminar\seminar_6\bin\Debug\net8.0\seminar_6.exe
+D:\Geek\C#\seminar\seminar_6\bin\Debug\net8.0\seminar_6.deps.json
+D:\Geek\C#\seminar\seminar_6\bin\Debug\net8.0\seminar_6.runtimeconfig.json
+D:\Geek\C#\seminar\seminar_6\bin\Debug\net8.0\seminar_6.dll
+D:\Geek\C#\seminar\seminar_6\bin\Debug\net8.0\seminar_6.pdb
+D:\Geek\C#\seminar\seminar_6\obj\Debug\net8.0\seminar_6.dll
+D:\Geek\C#\seminar\seminar_6\obj\Debug\net8.0\refint\seminar_6.dll
+D:\Geek\C#\seminar\seminar_6\obj\Debug\net8.0\seminar_6.pdb
+D:\Geek\C#\seminar\seminar_6\obj\Debug\net8.0\seminar_6.genruntimeconfig.cache
+D:\Geek\C#\seminar\seminar_6\obj\Debug\net8.0\ref\seminar_6.dll
