@@ -1,0 +1,15 @@
+D:\Geek\C#\Seminar\dz_seminar_7\obj\Debug\net8.0\dz_seminar_7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geek\C#\Seminar\dz_seminar_7\obj\Debug\net8.0\dz_seminar_7.AssemblyInfoInputs.cache
+D:\Geek\C#\Seminar\dz_seminar_7\obj\Debug\net8.0\dz_seminar_7.AssemblyInfo.cs
+D:\Geek\C#\Seminar\dz_seminar_7\obj\Debug\net8.0\dz_seminar_7.csproj.CoreCompileInputs.cache
+D:\Geek\C#\Seminar\dz_seminar_7\obj\Debug\net8.0\dz_seminar_7.sourcelink.json
+D:\Geek\C#\Seminar\dz_seminar_7\bin\Debug\net8.0\dz_seminar_7.exe
+D:\Geek\C#\Seminar\dz_seminar_7\bin\Debug\net8.0\dz_seminar_7.deps.json
+D:\Geek\C#\Seminar\dz_seminar_7\bin\Debug\net8.0\dz_seminar_7.runtimeconfig.json
+D:\Geek\C#\Seminar\dz_seminar_7\bin\Debug\net8.0\dz_seminar_7.dll
+D:\Geek\C#\Seminar\dz_seminar_7\bin\Debug\net8.0\dz_seminar_7.pdb
+D:\Geek\C#\Seminar\dz_seminar_7\obj\Debug\net8.0\dz_seminar_7.dll
+D:\Geek\C#\Seminar\dz_seminar_7\obj\Debug\net8.0\refint\dz_seminar_7.dll
+D:\Geek\C#\Seminar\dz_seminar_7\obj\Debug\net8.0\dz_seminar_7.pdb
+D:\Geek\C#\Seminar\dz_seminar_7\obj\Debug\net8.0\dz_seminar_7.genruntimeconfig.cache
+D:\Geek\C#\Seminar\dz_seminar_7\obj\Debug\net8.0\ref\dz_seminar_7.dll
